@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Add a title
-st.title("Gym Chatbot")
+st.title("FITBOT")
 
 # Input from the user (weight, height)
 weight = st.number_input("Enter your weight (kg):")
